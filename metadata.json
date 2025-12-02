@@ -1,0 +1,5 @@
+{
+  "name": "LED Dimming Curve Simulator",
+  "description": "A visual simulation comparing Linear, S-Curve, and Logarithmic brightness ramping strategies for LEDs.",
+  "requestFramePermissions": []
+}
